@@ -2,7 +2,7 @@
 A model that can predict the embedded emotions in an audio signal, using convolutional neural network.
 # Introduction
 ## Problem statement
-It is required to build a model that can predict the embedded emotions in an audio signal. This report proposes a speech emotion recognition model to predict human emotions using the convolutional neural network (CNN) by learning segmented audio of specific emotions. 
+It is required to build a model that can predict the embedded emotions in an audio signal. This is a speech emotion recognition model to predict human emotions using the convolutional neural network (CNN) by learning segmented audio of specific emotions. 
 
 # Dataset Description
 ## Overview
